@@ -1,0 +1,8 @@
+{
+  "first_page_url": "http://meter-site/index.html",
+  "anchors": [
+    {"seq": 1,  "trusted_time_utc": "2026-10-01T00:00:00Z"},
+    {"seq": 12, "trusted_time_utc": "2026-10-01T02:45:00Z"},
+    {"seq": 20, "trusted_time_utc": "2026-10-01T04:45:00Z"}
+  ]
+}

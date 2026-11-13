@@ -1,0 +1,11 @@
+body { font-family: "PingFang SC", "Microsoft YaHei", Arial, sans-serif; margin: 0; background: #f4f6f8; color: #1f2d3d; }
+header { background: #0b5cab; color: #fff; padding: 18px 32px; }
+main { max-width: 960px; margin: 24px auto; padding: 0 16px; }
+table.reading-table { border-collapse: collapse; width: 100%; margin: 12px 0 24px; background: #fff; }
+table.reading-table th, table.reading-table td { border: 1px solid #c4ccd4; padding: 8px 12px; text-align: right; }
+table.reading-table th { background: #eef2f6; }
+table.reading-table td:first-child, table.reading-table th:first-child { text-align: left; }
+.pagination { margin: 24px 0; }
+.pagination a, .pagination span { margin-right: 12px; }
+.note { background: #fff8e6; border: 1px solid #f0d9a0; padding: 10px 14px; border-radius: 6px; font-size: 13px; }
+.error-box { background: #fff; border: 1px solid #dcdfe6; border-radius: 8px; padding: 40px; text-align: center; }
